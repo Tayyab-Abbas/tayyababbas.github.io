@@ -1,0 +1,207 @@
+.bg-primary,
+.btn-primary,
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus, 
+.btn-outline-primary:active, 
+.btn-outline-primary.active, 
+.btn-outline-primary.focus, 
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.badge-primary,
+.pagination .active a,
+.nav-pills .nav-link.active,
+.custom-control-input:checked ~ .custom-control-label:before,
+#preloader #status .spinner .double-bounce1, #preloader #status .spinner .double-bounce2,
+.social-icon li a:hover, .profile-icons li a:hover,
+.back-to-top:hover,
+.back-to-home a,
+#topnav .navbar-toggle.open span:hover,
+.gradient,
+.flex-control-paging li a.flex-active,
+.owl-theme .owl-dots .owl-dot span,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots.clickable .owl-dot:hover span,
+.watch-video a .play-icon-circle,
+.sidebar .widget .tagcloud > a:hover,
+.flatpickr-day.selected, 
+.flatpickr-day.selected:hover,
+.bg-animation-left.crypto-home:after,
+.classic-app-image .bg-app-shape:after,
+.app-feature-shape-right:after,
+.app-feature-shape-left:after,
+.classic-saas-image .bg-saas-shape:after,
+.saas-feature-shape-left:after,
+.saas-feature-shape-right:after {
+    background-color: #2f55d4 !important;
+}
+
+.text-primary,
+.btn-outline-primary,
+.badge-outline-primary,
+.alert-outline-primary,
+.page-next-level .page-next li a:hover,
+.faq-content .card a.faq[data-toggle=collapse],
+.faq-content .card a.faq[data-toggle=collapse]:before,
+#topnav .has-submenu.active .submenu li.active > a,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li.active > a,
+#topnav .navigation-menu > li > a:hover, 
+#topnav .navigation-menu > li > a:active,
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li.active > a,
+#topnav .navigation-menu > li > a:hover,
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu > li.has-submenu.open > a,
+#topnav .has-submenu.active a,
+.course-feature .title:hover,
+.pricing-rates.business-rate:hover .title,
+.blog .content .title:hover,
+.blog .content .post-meta .readmore:hover,
+.sidebar .widget .blog-catagories li a:hover,
+.sidebar .widget .post-recent .post-recent-content a:hover,
+.media-list .comment-desk a:hover,
+.job-box .position a:hover,
+.job-box .company-name:hover,
+.event-schedule .content .title:hover,
+.courses-desc .content .title:hover,
+.container-filter li a.active, 
+.container-filter li a:hover,
+.team .name:hover,
+.catagories a:hover {
+    color: #2f55d4 !important;
+}
+
+.btn-primary,
+.btn-outline-primary,
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus, 
+.btn-outline-primary:active, 
+.btn-outline-primary.active, 
+.btn-outline-primary.focus, 
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.badge-outline-primary,
+.alert-primary,
+.alert-outline-primary,
+.pagination .active a,
+.form-group .form-control:focus, 
+.form-group .form-control.active,
+.custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:focus ~ .custom-control-label::before,
+.form-control:focus,
+.social-icon li a:hover, 
+.profile-icons li a:hover,
+#topnav .has-submenu.active.active .menu-arrow,
+#topnav.scroll .navigation-menu > li:hover > .menu-arrow, 
+#topnav.scroll .navigation-menu > li.active > .menu-arrow,
+#topnav .navigation-menu > li:hover > .menu-arrow,
+#topnav .has-submenu .submenu .has-submenu:hover .submenu-arrow,
+.pricing-rates.business-rate:hover,
+.pricing-rates.starter-plan,
+.event-schedule:hover,
+.container-filter li a.active, 
+.container-filter li a:hover,
+.flatpickr-day.selected, 
+.flatpickr-day.selected:hover {
+    border-color: #2f55d4 !important;
+}
+
+.btn-primary,
+.btn-outline-primary:hover, 
+.btn-outline-primary:focus, 
+.btn-outline-primary:active, 
+.btn-outline-primary.active, 
+.btn-outline-primary.focus, 
+.btn-outline-primary:not(:disabled):not(.disabled):active {
+    box-shadow: 0 3px 5px 0 rgba(47, 85, 212, 0.3);
+}
+
+.btn-primary:hover, 
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.btn-primary.focus {
+    background-color: #2443ac !important;
+    border-color: #2443ac !important;
+}
+
+.alert-primary,
+.pagination li a:hover,
+::selection {
+    background-color: #4466d8;
+}
+
+.alert-primary .alert-link {
+    color: #122258;
+}
+
+.pagination li a:hover {
+    border-color: #4466d8;
+}
+
+a.text-primary:hover, 
+a.text-primary:focus {
+    color: #284bc1 !important;
+}
+
+.bg-overlay-gradient {
+    background-color: rgba(47, 85, 212, 0.6);
+}
+
+.bg-overlay-gradient2 {
+    background-image: linear-gradient(90deg, #2eca8b, #2f55d4, #2eca8b);
+}
+
+.gradient {
+    background: linear-gradient(45deg, #2f55d4, #2f55d4) !important;
+}
+
+.features .image:before {
+    background: linear-gradient(45deg, transparent, rgba(47, 85, 212, 0.09));
+}
+
+.features:hover .image:before {
+    background: rgba(47, 85, 212, 0.07);
+}
+
+.key-feature .icon {
+    background: linear-gradient(45deg, transparent, rgba(47, 85, 212, 0.15));
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    background: rgba(47, 85, 212, 0.5) !important;
+}
+
+.play-icon i,
+.play-icon i:hover {
+    -webkit-text-stroke: 2px #2f55d4;
+}
+  
+.play-icon i:hover {
+    -webkit-text-fill-color: #2f55d4;
+}
+
+.event-schedule .date .day {
+    background: rgba(47, 85, 212, 0.1);
+    box-shadow: 0px 0px 2px 0.25px rgba(47, 85, 212, 0.5);
+}
+
+.classic-app-image .bg-app-shape:after,
+.app-feature-shape-right:after,
+.app-feature-shape-left:after,
+.classic-saas-image .bg-saas-shape:after,
+.saas-feature-shape-left:after,
+.saas-feature-shape-right:after {
+    box-shadow: 0 0 40px rgba(47, 85, 212, 0.5);
+}
+
+.nav-pills .nav-link:hover {
+    background: rgba(47, 85, 212, 0.06);
+}
+
+.personal-image {
+  border-radius: 40px;
+}
+
+.g-profiles .mdi {
+  color: black;
+}

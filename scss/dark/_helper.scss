@@ -1,0 +1,27 @@
+//
+// helper.scss
+//
+.bg-overlay {
+    background-color: $overlay;
+}
+.bg-overlay-gradient {
+    background-color: $gradident-overlay;
+}
+
+.bg-overlay-gradient2 {
+    background-image: linear-gradient(90deg, $success, $primary, $success);
+}
+.bg-overlay-white {
+    background-color: $bg-overlay-white;
+}
+.text-shadow-title {
+    text-shadow: 2px 0 0 $white, -2px 0 0 $white, 0 4px 0 rgba($white, 0.4), 0 -2px 0 $white, 1px 1px $white, -1px -1px 0 $white, 1px -1px 0 $white, -1px 1px 0 $white;
+}
+
+//Title
+.title-dark {
+    color: $dark !important;
+}
+.para-dark {
+    color: $muted !important;
+}
