@@ -4088,7 +4088,7 @@ img {
 .vertical-link_wrap {
   position: fixed;
   bottom: 0;
-  right: 50px;
+  right: 40px;
   z-index: 9;
 }
 .vertical-link_wrap:after {
